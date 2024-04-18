@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@dramateas/ut-distinctio-aliquam-est",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,34 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/dramateas/ut-distinctio-aliquam-est.git"
   },
   "dependencies": {
+    "@dramateas/at-nam-vel-cum": "^1.0.0",
+    "@dramateas/facilis-quae-omnis-consequatur": "^1.0.0",
+    "@dramateas/nihil-vero-cum-tempore": "^1.0.0",
+    "@dramateas/recusandae-molestiae-mollitia-modi": "^1.0.0",
+    "@dramateas/recusandae-perferendis-accusantium-architecto": "^1.0.0",
+    "@dramateas/unde-porro-quidem-distinctio": "^1.0.0",
+    "@firantea/aliquid-corrupti-cumque-veritatis": "^1.0.0",
+    "@firantea/libero-autem-nam-possimus": "^1.0.0",
+    "@firantea/natus-exercitationem-ullam-ipsum": "^1.0.0",
+    "@firantea/tempore-asperiores-ullam-fugit": "^1.0.0",
+    "@firantea/veritatis-quo-asperiores-veniam": "^1.0.0",
+    "@npmteasources/quasi-harum-excepturi-recusandae": "^1.0.0",
+    "@npmteasources/quia-repellat-commodi-inventore": "^1.0.0",
+    "@npmteasources/ratione-accusantium-laboriosam-at": "^1.0.0",
+    "@npmteasources/sapiente-natus-consequatur-odio": "^1.0.0",
+    "@npmteasources/tempora-ea-nihil-soluta": "^1.0.0",
+    "@npmteasources/voluptates-non-non-assumenda": "^1.0.0",
+    "@womhla6stea/ad-dicta-omnis-velit": "^1.0.0",
+    "@womhla6stea/architecto-dolores-molestiae-perspiciatis": "^1.0.0",
+    "@womhla6stea/eaque-odio-deserunt-ipsum": "^1.0.0",
+    "@womhla6stea/eius-non-ea-illo": "^1.0.0",
+    "@womhla6stea/iusto-ut-culpa-sed": "^1.0.0",
+    "@womhla6stea/modi-illum-cupiditate-quasi": "^1.0.0",
+    "@womhla6stea/natus-expedita-nostrum-distinctio": "^1.0.0",
+    "@womhla6stea/quia-eius-unde-cum": "^1.0.0",
+    "@womhla6stea/soluta-excepturi-deleniti-repellendus": "^1.0.0"
   }
 }
